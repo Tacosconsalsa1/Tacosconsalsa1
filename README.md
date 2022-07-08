@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Tacosconsalsa1
-- 👀 In this moment I’m just learning 
-- 🌱 I’m currently learning C++ 
+~ Hi, I’m @Tacosconsalsa1
+~ In this moment I’m just learning 
+~ I’m currently learning C++ and frontend web development
 
-<!---
-Tacosconsalsa1/Tacosconsalsa1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+~ in the future i'll probably learn backend web development and python
